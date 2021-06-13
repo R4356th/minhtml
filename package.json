@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "camel-case": "^4.1.2",
-    "clean-css": "^4.2.3",
+    "clean-css": "^5.1.2",
     "commander": "^4.1.1",
     "he": "^1.2.0",
     "param-case": "^3.0.4",
