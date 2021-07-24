@@ -48,7 +48,7 @@
     "url": "https://github.com/R4356th/minhtml/issues"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=12"
   },
   "dependencies": {
     "camel-case": "^4.1.2",
