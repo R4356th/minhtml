@@ -60,7 +60,7 @@
     "he": "^1.2.0",
     "param-case": "^3.0.4",
     "relateurl": "^0.2.7",
-    "terser": "^5.10.0"
+    "terser": "^5.11.0"
   },
   "devDependencies": {
     "clean-publish": "^4.0.0",
