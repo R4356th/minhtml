@@ -68,7 +68,7 @@
     "clean-publish": "^4.0.0",
     "eslint": "^8.14.0",
     "node-qunit-puppeteer": "2.1.0",
-    "qunit": "^2.18.2",
+    "qunit": "^2.19.0",
     "rollup": "^2.70.2",
     "rollup-plugin-polyfill-node": "^0.9.0",
     "rollup-plugin-terser": "^7.0.2"
